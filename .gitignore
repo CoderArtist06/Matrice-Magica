@@ -401,4 +401,4 @@ FodyWeavers.xsd
 
 # File
 .vscode
-./code/main.exe
+/code/main.exe
